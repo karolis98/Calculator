@@ -4,7 +4,6 @@ const Display = ({ value }) => {
   return (
     <div
       style={{
-        width: "100%",
         height: "60px",
         marginBottom: "10px",
         fontSize: "24px",

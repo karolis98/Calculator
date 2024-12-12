@@ -41,7 +41,7 @@ const Calculator = () => {
   return (
     <div
       style={{
-        width: "250px",
+        width: "300px",
         margin: "50px auto",
         textAlign: "center",
         border: "1px solid #ccc",
